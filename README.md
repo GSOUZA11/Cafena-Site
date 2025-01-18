@@ -1,7 +1,7 @@
 # Cafena-Site
 Bem-vindo ao Caféna.  Uma cafeteria onde o aroma do café recém-moído e a atmosfera aconchegante te convidam a desacelerar. Desfrute de nossas bebidas especiais, acompanhadas por deliciosos quitutes, e encontre o seu cantinho perfeito para trabalhar, estudar ou simplesmente relaxar.
-![Captura de Tela (162)](https://github.com/user-attachments/assets/ae51f276-744d-4370-a151-0a2ea747cb09)
-![Captura de Tela (158)](https://github.com/user-attachments/assets/785e939b-5e25-4913-99a2-51573f5f7c95)
-![Captura de Tela (159)](https://github.com/user-attachments/assets/aa1d803d-a018-4245-824c-0f62de0ea943)
-![Captura de Tela (160)](https://github.com/user-attachments/assets/b7744fef-3c39-4105-968c-ba9f3b09b117)
-![Captura de Tela (161)](https://github.com/user-attachments/assets/98399f09-8086-45d2-b5b0-7019c740a9a0)
+![Captura de Tela (162)](https://github.com/user-attachments/assets/7b6fd039-b756-4b8a-9dfc-aa0bf2a519d2)
+![Captura de Tela (158)](https://github.com/user-attachments/assets/b05020fe-a004-4279-8a25-1bb2db40ae06)
+![Captura de Tela (159)](https://github.com/user-attachments/assets/8cffef3b-a2e8-4e70-984b-df3dec6e2233)
+![Captura de Tela (160)](https://github.com/user-attachments/assets/896ec2b9-7e62-4961-b105-35fed1cb2e97)
+![Captura de Tela (161)](https://github.com/user-attachments/assets/7d390a8d-b133-439a-b1dc-dcaf4a5280da)
